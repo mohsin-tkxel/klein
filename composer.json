@@ -1,20 +1,13 @@
 {
-   "name": "klein/klein",
-   "description": "A lightning fast router for PHP",
+   "name": "tkxel/klein-tkxel",
+   "description": "A lightning fast router for PHP- PHP 8 Support",
    "keywords": ["router", "routing", "sinatra", "boilerplate"],
    "homepage": "https://github.com/klein/klein.php",
    "license": "MIT",
    "authors": [
       {
-         "name": "Chris O'Hara",
-         "email": "cohara87@gmail.com",
-         "homepage": "http://chris6f.com/",
-         "role": "Creator/Developer"
-      },
-      {
-         "name": "Trevor Suarez",
-         "email": "rican7@gmail.com",
-         "homepage": "https://trevorsuarez.com/",
+         "name": "Mohsin Tkxel",
+         "email": "mohsin.iftikhar@tkxel.com",
          "role": "Contributor/Developer"
       }
    ],
